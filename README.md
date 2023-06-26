@@ -8,6 +8,7 @@ REACT_JS
 HTML
 CSS
 JAVA SCRIPT
+Tailwind
 
 # Functionalities
 
@@ -17,4 +18,4 @@ JAVA SCRIPT
 4. Menu Change
 5. Responsive SideBar
 
-I deploy this React application to a hosting platform Netlify - https://main--keen-churros-98477b.netlify.app/
+I deploy this React application to a hosting platform Netlify - [Live](https://kanban-figma-clone.netlify.app/)
