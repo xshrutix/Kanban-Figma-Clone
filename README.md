@@ -5,11 +5,11 @@ Figma Design Clone for Kanban Board
 # Installation
 Before you start the installation process, make sure you have Node.js and npm installed on your machine.
 
-Clone this repository: git clone repo
-Navigate into the directory: cd Kanban-figma-clone
-Install dependencies: npm install or npm install --force
-Start: npm run dev
-Deploy
+1.Clone this repository: git clone repo
+2.Navigate into the directory: cd Kanban-figma-clone
+3.Install dependencies: npm install or npm install --force
+4.Start: npm run dev
+5.Deploy
 
 # Stacks used
 
