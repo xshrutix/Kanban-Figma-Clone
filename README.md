@@ -1,4 +1,4 @@
-# Kanban_Clone_Mercor_project
+# Kanban_figma_Clone.
 
 Figma Design Clone for Kanban Board
 
