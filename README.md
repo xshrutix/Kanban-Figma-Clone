@@ -8,7 +8,7 @@ Before you start the installation process, make sure you have Node.js and npm in
 1.Clone this repository: git clone repo
 2.Navigate into the directory: cd Kanban-figma-clone
 3.Install dependencies: npm install or npm install --force
-4.Start: npm run dev
+4.Start: npm start
 5.Deploy
 
 # Stacks used
